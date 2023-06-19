@@ -12,11 +12,21 @@
 
 ## Sobre
 
-Em andamento.
+Este projeto teve como foco a resolução de problemas de **Dividir e Conquistar** (Divide and Conquer) nas plataformas *LeetCode* e *CSES*.
+
+## Apresentação
+
+Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](https://www.youtube.com) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](https://www.youtube.com).
 
 ## Screenshots
 
-Em andamento.
+## [215] Kth Largest Element in an Array
+
+[**Link do Problema**](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+[**Resposta Comentada**](./exercises/215_KthLargestElement/commented/215_KthLargestElement.md)
+
+![215 - Kth Largest Element in an Array](assets/215_KthLargestElement.png)
 
 ## Instalação
 
@@ -25,10 +35,48 @@ Em andamento.
 
 * Caso não tenha o compilador *G++* instalado, veja a seção *Outros* no tópico *Compilador*.
 
-## Uso
+## Execução
 
-Em andamento.
+Alguns dos algoritmos apresentados foram executados nas respectivas plataformas de onde foram disponibilizados.
+
+Todavia, caso deseje executar os algoritmos em sua máquina, siga os passos:
+
+Primeiramente, clone o repositório em sua máquina:
+
+```
+git clone git@github.com:projeto-de-algoritmos/DeC_DivisiveExercises.git
+```
+
+Agora, entre na pasta do projeto e então entre na pasta *exercises*, onde as pastas para cada exercício estão:
+
+```
+cd DeC_DivisiveExercises/exercises
+```
+
+Então, entre na pasta do algoritmo do exercício desejado:
+
+```
+cd *nome da pasta do algoritmo desejado*
+```
+
+Finalmente, caso o algoritmo seja passível de execução em máquina local (ver seção **Outros**), basta inserir o caso de teste no arquivo *in* (caso não exista, basta criar um arquivo sem extensão com nome *in*), compilar o algoritmo e executá-lo:
+
+```
+g++ *nome_do_algoritmo*.cpp -o Exer
+
+./Exer < in
+```
 
 ## Outros
 
-Em andamento.
+*Aviso de Referência:* os conteúdos presentes nessa seção são similares aos disponibilizados na seção de mesmo nome do projeto desenvolvido por esta equipe para algoritmos ambiciosos (ver [Greed_GreedyExercises](https://github.com/projeto-de-algoritmos/Greed_GreedyExercises)). Tal uso se deu devido à igualdade das situações que podem existir durante a execução de ambos os projetos, haja vista que estes tratam da resolução de exercícios sobre os respectivos assuntos.
+
+### Execução em máquina local
+
+Destaca-se apenas que os algoritmos desenvolvidos para a plataforma *LeetCode* devem ser executados na mesma e não em máquina local devido à sua estrutura. Para tal, basta entrar na página do exercício em questão, colar o código original e clicar em *Run* para executar os casos de teste disponibilizados.
+
+### Compilador
+
+Os algoritmos foram desenvolvidos em C++. Para compilar e executar seus arquivos, é necessário ter o compilador **G++** instalado. Para tal, basta seguir as instruções para as plataformas [*Linux*](https://linuxhint.com/install-and-use-g-on-ubuntu/) e [*Windows*](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/).
+
+Todavia, também é possível executar os algoritmos nas plataformas de onde os exercícios foram retirados ou por ambientes de programação on-line, como, por exemplo, o [*OnlineGDB*](https://www.onlinegdb.com/).
