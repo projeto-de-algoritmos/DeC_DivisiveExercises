@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Divisive Exercises
 
 **Número da Lista**: Dupla 14 da Turma 02<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
@@ -10,24 +10,25 @@
 | 19/0105267  |  Diógenes Dantas Lélis Júnior |
 | 20/0018167  |  Gabriel Mariano da Silva |
 
-## Sobre 
+## Sobre
+
 Em andamento.
 
 ## Screenshots
+
 Em andamento.
 
-## Instalação 
+## Instalação
+
 **Linguagem**: *C++* (C++17)<br>
 **Compilador**: *G++* <br>
 
 * Caso não tenha o compilador *G++* instalado, veja a seção *Outros* no tópico *Compilador*.
 
-## Uso 
+## Uso
+
 Em andamento.
 
-## Outros 
+## Outros
+
 Em andamento.
-
-
-
-
