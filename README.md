@@ -28,6 +28,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![215 - Kth Largest Element in an Array](assets/215_KthLargestElement.png)
 
+## [1162] Train Swapping
+
+[**Link do Problema**](https://www.beecrowd.com.br/judge/en/problems/view/1162)
+
+[**Resposta Comentada**](./exercises/1162_TrainSwapping/commented/1162_TrainSwapping.md)
+
+![1162 - Train Swapping](assets/1162_TrainSwapping.png)
+
 ## Instalação
 
 **Linguagem**: *C++* (C++17)<br>
