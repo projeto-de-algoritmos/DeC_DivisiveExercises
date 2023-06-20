@@ -1,3 +1,10 @@
+# Exercício 4 do LeetCode: Median of Two Sorted Arrays
+
+[**Link do Problema**](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+## Código comentado
+
+```
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -109,3 +116,4 @@ public:
         return result;
     }
 };
+```
