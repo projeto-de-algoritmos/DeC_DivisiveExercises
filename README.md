@@ -52,6 +52,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![1162 - Beautiful Array](assets/004_MedianofTwoSortedArrays.png)
 
+## [372] Super Pow
+
+[**Link do Problema**](https://leetcode.com/problems/super-pow/)
+
+[**Resposta Comentada**](./exercises/372_SuperPow/commented/372_superpow.md)
+
+![372 - Super Pow](assets/372_SuperPow.png)
+
 ## Instalação
 
 **Linguagem**: *C++* (C++17)<br>
