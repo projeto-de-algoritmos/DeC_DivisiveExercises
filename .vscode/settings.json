@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.pl": "prolog",
-        "cmath": "cpp",
-        "iostream": "cpp",
-        "ostream": "cpp"
-    }
-}
