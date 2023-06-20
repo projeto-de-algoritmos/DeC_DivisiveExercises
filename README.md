@@ -44,6 +44,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![1162 - Beautiful Array](assets/932_BeautifulArray.png)
 
+## [004] Median of Two Sorted Arrays
+
+[**Link do Problema**](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+[**Resposta Comentada**](./exercises/004_MedianofTwoSortedArrays/commented/004_MedianofTwoSortedArrays.md)
+
+![1162 - Beautiful Array](assets/004_MedianofTwoSortedArrays.png)
+
 ## Instalação
 
 **Linguagem**: *C++* (C++17)<br>
