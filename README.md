@@ -36,6 +36,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![1162 - Train Swapping](assets/1162_TrainSwapping.png)
 
+## [932] Beautiful Array
+
+[**Link do Problema**](https://leetcode.com/problems/beautiful-array/)
+
+[**Resposta Comentada**](./exercises/932_BeautifulArray/commented/932_breautifularray.md)
+
+![1162 - Beautiful Array](assets/932_BeautifulArray.png)
+
 ## Instalação
 
 **Linguagem**: *C++* (C++17)<br>
