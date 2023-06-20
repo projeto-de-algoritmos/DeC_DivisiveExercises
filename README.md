@@ -44,6 +44,30 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![1162 - Beautiful Array](assets/932_BeautifulArray.png)
 
+## [004] Median of Two Sorted Arrays
+
+[**Link do Problema**](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+[**Resposta Comentada**](./exercises/004_MedianofTwoSortedArrays/commented/004_MedianofTwoSortedArrays.md)
+
+![1162 - Beautiful Array](assets/004_MedianofTwoSortedArrays.png)
+
+## [372] Super Pow
+
+[**Link do Problema**](https://leetcode.com/problems/super-pow/)
+
+[**Resposta Comentada**](./exercises/372_SuperPow/commented/372_superpow.md)
+
+![372 - Super Pow](assets/372_SuperPow.png)
+
+## [559] Equivalent Strings
+
+[**Link do Problema**](https://codeforces.com/problemset/problem/559/B)
+
+[**Resposta Comentada**](./exercises/559B_EquivalentStrings/commented/559B_equivalentstrings.md)
+
+![559 - Equivalent Strings](assets/559B_equivalentestrings.png)
+
 ## Instalação
 
 **Linguagem**: *C++* (C++17)<br>
