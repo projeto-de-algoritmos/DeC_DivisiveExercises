@@ -1,3 +1,10 @@
+# Exercício 932 do LeetCode: Beautiful Array
+
+[**Link do Problema**](https://leetcode.com/problems/super-pow/)
+
+## Código comentado
+
+```
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -45,3 +52,4 @@ public:
         return (part1 * part2) % 1337;
     }
 };
+```
