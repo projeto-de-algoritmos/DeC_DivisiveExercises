@@ -50,7 +50,7 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Resposta Comentada**](./exercises/932_BeautifulArray/commented/932_beautifularray.md)
 
-![1162 - Beautiful Array](assets/932_BeautifulArray.png)
+![1162 - Beautiful Array](assets/932_BeautifulArrayn.png)
 
 ## [004] Median of Two Sorted Arrays
 
