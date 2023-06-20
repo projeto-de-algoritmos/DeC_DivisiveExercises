@@ -1,3 +1,10 @@
+# Exercício 559B do CodeForces: Equivalent Strings
+
+[**Link do Problema**](https://codeforces.com/problemset/problem/559/B)
+
+## Código comentado
+
+```
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -36,3 +43,4 @@ int main() {
 
     return 0;
 }
+```
