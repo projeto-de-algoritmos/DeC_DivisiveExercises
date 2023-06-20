@@ -36,6 +36,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![1162 - Train Swapping](assets/1162_TrainSwapping.png)
 
+## [493] Reverse Pairs
+
+[**Link do Problema**](https://leetcode.com/problems/reverse-pairs/)
+
+[**Resposta Comentada**](./exercises/493_ReversePairs/commented/493_ReversePairs.md)
+
+![493 - Reverse Pairs](assets/493_ReversePairs.png)
+
 ## [932] Beautiful Array
 
 [**Link do Problema**](https://leetcode.com/problems/beautiful-array/)
