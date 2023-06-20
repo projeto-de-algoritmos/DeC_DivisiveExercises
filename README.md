@@ -60,6 +60,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![372 - Super Pow](assets/372_SuperPow.png)
 
+## [559] Equivalent Strings
+
+[**Link do Problema**](https://codeforces.com/problemset/problem/559/B)
+
+[**Resposta Comentada**](./exercises/559B_EquivalentStrings/commented/559B_equivalentstrings.md)
+
+![559 - Equivalent Strings](assets/559B_equivalentestrings.png)
+
 ## Instalação
 
 **Linguagem**: *C++* (C++17)<br>
