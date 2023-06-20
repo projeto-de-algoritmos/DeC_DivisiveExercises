@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Este projeto teve como foco a resolução de problemas de **Dividir e Conquistar** (Divide and Conquer) nas plataformas *LeetCode* e *CSES*.
+Este projeto teve como foco a resolução de problemas de **Dividir e Conquistar** (Divide and Conquer) nas plataformas *LeetCode*, *BeeCrowd* e *CodeForces*.
 
 ## Apresentação
 
