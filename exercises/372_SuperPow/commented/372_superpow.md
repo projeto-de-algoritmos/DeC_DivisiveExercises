@@ -1,4 +1,4 @@
-# Exercício 932 do LeetCode: Beautiful Array
+# Exercício 372 do LeetCode: Super Pow
 
 [**Link do Problema**](https://leetcode.com/problems/super-pow/)
 

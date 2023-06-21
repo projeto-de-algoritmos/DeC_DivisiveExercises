@@ -16,7 +16,7 @@ Este projeto teve como foco a resolução de problemas de **Dividir e Conquistar
 
 ## Apresentação
 
-Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](https://www.youtube.com) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](https://www.youtube.com).
+Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](https://www.youtube.com/watch?v=GjP4kitgRaU) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](./video/ApresentacaoDupla14DividirEConquistar.mp4).
 
 ## Screenshots
 
@@ -50,7 +50,7 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Resposta Comentada**](./exercises/932_BeautifulArray/commented/932_beautifularray.md)
 
-![1162 - Beautiful Array](assets/932_BeautifulArrayn.png)
+![932 - Beautiful Array](assets/932_BeautifulArrayn.png)
 
 ## [004] Median of Two Sorted Arrays
 
@@ -58,7 +58,7 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Resposta Comentada**](./exercises/004_MedianofTwoSortedArrays/commented/004_MedianofTwoSortedArrays.md)
 
-![1162 - Beautiful Array](assets/004_MedianofTwoSortedArrays.png)
+![004 - Median of Two Sorted Arrays](assets/004_MedianofTwoSortedArrays.png)
 
 ## [372] Super Pow
 
