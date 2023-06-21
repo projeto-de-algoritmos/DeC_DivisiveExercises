@@ -50,7 +50,7 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Resposta Comentada**](./exercises/932_BeautifulArray/commented/932_beautifularray.md)
 
-![1162 - Beautiful Array](assets/932_BeautifulArrayn.png)
+![932 - Beautiful Array](assets/932_BeautifulArrayn.png)
 
 ## [004] Median of Two Sorted Arrays
 
@@ -58,7 +58,7 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Resposta Comentada**](./exercises/004_MedianofTwoSortedArrays/commented/004_MedianofTwoSortedArrays.md)
 
-![1162 - Beautiful Array](assets/004_MedianofTwoSortedArrays.png)
+![004 - Median of Two Sorted Arrays](assets/004_MedianofTwoSortedArrays.png)
 
 ## [372] Super Pow
 
