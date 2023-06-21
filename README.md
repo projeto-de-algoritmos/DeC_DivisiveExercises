@@ -16,7 +16,7 @@ Este projeto teve como foco a resolução de problemas de **Dividir e Conquistar
 
 ## Apresentação
 
-Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](https://www.youtube.com) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](https://www.youtube.com).
+Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](https://www.youtube.com/watch?v=GjP4kitgRaU) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](./video/ApresentacaoDupla14DividirEConquistar.mp4).
 
 ## Screenshots
 
